@@ -1,0 +1,18 @@
+Data Science Fundamentals
+
+Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
+
+Data Collection and Cleaning
+The first step in any data science project is collecting relevant data from various sources. Data cleaning involves handling missing values, removing duplicates, and correcting errors to ensure data quality.
+
+Exploratory Data Analysis
+EDA involves analyzing data sets to summarize their main characteristics, often using visual methods. This helps in understanding patterns, spotting anomalies, and testing hypotheses.
+
+Statistical Analysis
+Statistical methods are used to analyze and interpret data. This includes descriptive statistics, inferential statistics, hypothesis testing, and regression analysis.
+
+Machine Learning Models
+Data scientists build predictive models using machine learning algorithms. These models can be supervised (classification, regression) or unsupervised (clustering, dimensionality reduction).
+
+Data Visualization
+Effective visualization helps communicate insights from data. Tools like Matplotlib, Seaborn, and Plotly are commonly used to create charts, graphs, and interactive dashboards.

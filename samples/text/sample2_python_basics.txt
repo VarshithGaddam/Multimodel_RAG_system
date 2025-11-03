@@ -1,0 +1,18 @@
+Python Programming Basics
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991.
+
+Variables and Data Types
+Python supports various data types including integers, floats, strings, lists, tuples, and dictionaries. Variables don't need explicit declaration and are dynamically typed.
+
+Control Flow
+Python uses if-elif-else statements for conditional execution. Loops include for loops and while loops. The indentation is significant in Python and defines code blocks.
+
+Functions
+Functions in Python are defined using the def keyword. They can accept parameters and return values. Python also supports lambda functions for simple operations.
+
+Object-Oriented Programming
+Python supports object-oriented programming with classes and objects. Classes are defined using the class keyword and can have methods and attributes.
+
+Libraries and Frameworks
+Python has a rich ecosystem of libraries including NumPy for numerical computing, Pandas for data analysis, and frameworks like Django and Flask for web development.
